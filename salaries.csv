@@ -1,0 +1,17 @@
+company,job,degree,salary_more_then_100k
+SBI,sales executive,bachelors,0
+SBI,sales executive,masters,0
+SBI,business manager,bachelors,1
+SBI,business manager,masters,1
+SBI,computer programmer,bachelors,0
+SBI,computer programmer,masters,1
+Mayank pharma,sales executive,masters,0
+Mayank pharma,computer programmer,bachelors,0
+Mayank pharma,business manager,bachelors,0
+Mayank pharma,business manager,masters,1
+Mayankprivate limited,sales executive,bachelors,1
+Mayankprivate limited,sales executive,masters,1
+Mayankprivate limited,business manager,bachelors,1
+Mayankprivate limited,business manager,masters,1
+Mayankprivate limited,computer programmer,bachelors,1
+Mayankprivate limited,computer programmer,masters,1
